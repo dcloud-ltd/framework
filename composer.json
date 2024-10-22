@@ -11,5 +11,7 @@
             "email": "info@wupeize.com"
         }
     ],
-    "require": {}
+    "require": {
+        "php": ">=8.3.0"
+    }
 }
