@@ -1,5 +1,7 @@
 {
     "name": "dcloud-ltd/framework",
+    "keywords": ["dcloud", "dcloud-ltd", "framework"],
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "DCLOUD\\Framework\\": "src/"
@@ -12,6 +14,6 @@
         }
     ],
     "require": {
-        "php": ">=8.3.0"
+        "php": "^8.3"
     }
 }
