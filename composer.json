@@ -1,6 +1,8 @@
 {
     "name": "dcloud-ltd/framework",
-    "keywords": ["dcloud", "dcloud-ltd", "framework"],
+    "keywords": ["dcloud-ltd", "framework"],
+    "description": "dcloud web framework.",
+    "homepage": "https://www.dcloud.ltd/framework",
     "license": "MIT",
     "autoload": {
         "psr-4": {
