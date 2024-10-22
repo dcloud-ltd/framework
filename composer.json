@@ -1,0 +1,15 @@
+{
+    "name": "dcloud-ltd/framework",
+    "autoload": {
+        "psr-4": {
+            "DCLOUD\\Framework\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Evan Wu",
+            "email": "info@wupeize.com"
+        }
+    ],
+    "require": {}
+}
